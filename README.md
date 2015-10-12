@@ -1,2 +1,2 @@
 # DotNetConsoleApp
-hello world app to test .NET compatibility
+hello world app to test .NET compatibility with Jenkins
