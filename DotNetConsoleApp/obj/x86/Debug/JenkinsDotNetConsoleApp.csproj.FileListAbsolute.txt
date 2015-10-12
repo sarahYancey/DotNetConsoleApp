@@ -1,0 +1,4 @@
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetConsoleApp\JenkinsDotNetConsoleApp\bin\Debug\JenkinsDotNetConsoleApp.exe
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetConsoleApp\JenkinsDotNetConsoleApp\bin\Debug\JenkinsDotNetConsoleApp.pdb
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetConsoleApp\JenkinsDotNetConsoleApp\obj\x86\Debug\JenkinsDotNetConsoleApp.exe
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetConsoleApp\JenkinsDotNetConsoleApp\obj\x86\Debug\JenkinsDotNetConsoleApp.pdb
