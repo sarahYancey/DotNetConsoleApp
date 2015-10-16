@@ -9,7 +9,7 @@ namespace DotNetConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! today");
+            Console.WriteLine("Hello World!");
         }
     }
 }
